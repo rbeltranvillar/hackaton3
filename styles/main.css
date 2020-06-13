@@ -1,5 +1,5 @@
 /*globales del body*/
-body{padding: 30px;}
+body{padding: 300px;}
 
 /*cabecera MI PAGINA PERSONAL*/
 
@@ -12,6 +12,10 @@ h2 {color: chartreuse;margin: 0;text-align: center;}
 h3 {color: greenyellow;margin: 0; text-align: center;}
 h3 {border-style: solid;}
 .anos:focus{background-color: blueviolet;} 
+
+
+
+
 
 /*formulario de contacto*/
 h4{text-align: center;}
