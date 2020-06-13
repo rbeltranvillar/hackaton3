@@ -1,0 +1,22 @@
+/*globales del body*/
+body{padding: 30px;}
+
+/*cabecera MI PAGINA PERSONAL*/
+
+h1{text-align: center;}
+
+/*Sobre mi*/
+h2 {color: chartreuse;margin: 0;text-align: center;}
+
+/*skills*/
+h3 {color: greenyellow;margin: 0; text-align: center;}
+h3 {border-style: solid;}
+.anos:focus{background-color: blueviolet;} 
+
+/*formulario de contacto*/
+h4{text-align: center;}
+
+/*footer*/
+
+footer {height: 50px;}
+         footer p {text-align: center;line-height: 3; }
