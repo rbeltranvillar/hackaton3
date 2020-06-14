@@ -4,6 +4,7 @@ body{padding: 300px;}
 /*cabecera MI PAGINA PERSONAL*/
 
 h1{text-align: center;}
+header {background-image: url(/imgenes/IMAGEN.png); background-size: 100% 100%; }
 
 /*Sobre mi*/
 h2 {color: chartreuse;margin: 0;text-align: center;}
@@ -13,6 +14,8 @@ h3 {color: greenyellow;margin: 0; text-align: center;}
 h3 {border-style: solid;}
 .anos:focus{background-color: blueviolet;} 
 
+/*clientes*/
+h6{text-align: center;}
 
 
 
