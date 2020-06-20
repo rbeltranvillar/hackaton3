@@ -25,6 +25,7 @@ h3 {color: rgb(38, 204,75);margin: 0; text-align: center;}
 
 
 .misskilss {margin-left: 10%;}
+.skill {margin-left: 30px;}
 
 .skill1{ display: inline-block ;
    width: 25%; color: white  ;
@@ -67,6 +68,7 @@ h3 {color: rgb(38, 204,75);margin: 0; text-align: center;}
 /*portafolio*/
 .portafolio1 { margin-left: 15% ; margin-bottom: 5%;}
 .portafolio2 {margin-left: 15%;; }
+h5 { text-align: center; margin-bottom: 2%;}
 
 /*clientes*/
 h6{text-align: center;}
