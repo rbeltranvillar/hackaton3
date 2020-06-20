@@ -1,0 +1,109 @@
+/*globales del body*/
+body{margin-left: 500px;margin-right: 500px; margin-top: 200px ;margin-bottom: 200px;
+font-family: Arial, Helvetica, sans-serif;
+}
+main { max-width: 960px;}
+/*cabecera MI PAGINA PERSONAL*/
+
+h1{text-align: center; font-size: medium; text-shadow: 5px 5px 2.5px blueviolet; }
+header {background-image: url(/imgenes/IMAGEN.png); background-size: 100% 100%; height: 200px; 
+border-top-left-radius: 10px  ; border-top-right-radius: 10px;
+}
+
+
+/*Sobre mi*/
+h2 {color: chartreuse;margin: 0;text-align: center;}
+.cv { display: inline-block;
+margin-left: 45%; margin-bottom: 2.5%; border-radius: 20%;}
+
+.saludo { color: white; font-family: Arial, Helvetica, sans-serif; font-size: 18px; 
+padding: 10%;}
+
+
+/*skills*/
+h3 {color: rgb(38, 204,75);margin: 0; text-align: center;}
+
+
+.misskilss {margin-left: 10%;}
+
+.skill1{ display: inline-block ;
+   width: 25%; color: white  ;
+}
+.bar1 { width: 20%; background-color: #ffffff; display: inline-block; 
+    border-radius: 50%; margin-right: 5%;}
+
+.skill2 {display: inline-block;
+    width: 25%; color: white;
+     }
+
+     .bar2 { width: 20%; background-color: #FFFFFF; display: inline-block; 
+        border-radius: 50%; margin-right:5% ;}
+.skill3 {display: inline-block;
+    width: 25% ; color:  white;}
+    .bar3 { width: 20%; background-color: #FFFFFF; display: inline-block; width: 25%;
+        border-radius: 50%;}  
+   
+    
+   .skill4{ display: inline-block ;
+    width: 30%; color: white;
+ }
+
+ .bar4 { width: 20%; background-color: #FFFFFF; display: inline-block; width: 25%;
+    border-radius: 50%;} 
+ .skill5 {display: inline-block;
+     width: 30%;
+     color: white; }
+
+     .bar5 { width: 20%; background-color: #FFFFFF; display: inline-block; width: 25%;
+        border-radius: 50%;} 
+ .skill6 {display: inline-block;
+     width: 30%
+    ; color: white;}
+    .bar6 { width: 20%; background-color: #FFFFFF; display: inline-block; width: 25%;
+        border-radius: 50%;} 
+
+
+
+/*portafolio*/
+.portafolio1 { margin-left: 15% ; margin-bottom: 5%;}
+.portafolio2 {margin-left: 15%;; }
+
+/*clientes*/
+h6{text-align: center;}
+
+.clientes1 { margin-left: 15%; margin-bottom: 5%; }
+
+
+
+
+
+/*formulario de contacto*/
+h4{text-align: center; }
+.formulario { margin-left: 10%; }
+.nombre {display: inline-block;
+
+width: 45%;
+ ; margin-bottom: 5%;}
+
+.apellido {display: inline-block;
+
+    width: 45%; margin-bottom: 5%}
+
+    .mail {display: inline-block;
+
+        width: 45%;margin-bottom: 5%}
+
+        .telefono {display: inline-block;
+
+            width: 45%;margin-bottom: 5%} 
+            .descripcion {display: inline-block;
+
+                width: 45%;}
+  .enviar { display: inline-block;
+
+margin-left: 45%; border-radius: 20%;}
+
+/*footer*/
+
+footer {height: 50px;}
+         footer p {text-align: center;line-height: 3; }
